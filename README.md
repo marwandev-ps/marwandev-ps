@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @marwandev-ps
+- 👋 Hi, I’m Marwan Rabi
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning the basic of programming using python
 - 💞️ I’m looking to collaborate on (projects to Simulate - practicing projects)
-- 📫 How to reach me on telegram(@marwandev)
-- 😄 Pronouns: me/him
+- 📫 you can reach me on telegram(@marwandev) - discord(marwanrabi_ps).
+- 😄 Pronouns: he/him
 - ⚡ guide: practice makes perfect
 
 <!---
