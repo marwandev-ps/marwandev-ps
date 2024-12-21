@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning the basic of programming using python
 - 💞️ I’m looking to collaborate on (projects to Simulate - practicing projects)
-- 📫 you can reach me on telegram([@marwanDev7](https://t.me/Marwan_Dev7)](https://t.me/Marwan_Dev7)) - discord(marwanrabi_ps).
+- 📫 you can reach me on telegram([MarwanDev_7](https://t.me/Marwan_Dev7)) - discord(marwanrabi_ps).
 - 😄 Pronouns: he/him
 - ⚡ guide: practice makes perfect
 
